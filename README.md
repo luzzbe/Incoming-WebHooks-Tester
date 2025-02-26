@@ -11,6 +11,9 @@ Ce projet est une page HTML simple permettant de tester l'envoi de messages vers
 - Un navigateur web moderne
 - Une URL de webhook Slack valide (générée depuis une intégration Slack)
 
+## Capture d'écran
+![Aperçu du site](screenshot.png)
+
 ## Utilisation
 1. Ouvrez le fichier `index.html` dans votre navigateur.
 2. Collez votre URL de webhook Slack dans le champ prévu.
